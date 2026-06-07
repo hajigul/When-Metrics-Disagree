@@ -177,18 +177,6 @@ Seven aggregators are evaluated:
 
 ---
 
-## Citation
-
-If you use this code or framework, please cite:
-
-```bibtex
-@inproceedings{whenmetricsagree2025,
-  title     = {When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking},
-  booktitle = {IEEE International Conference on Data Mining (ICDM)},
-  year      = {2025}
-}
-```
-
 ---
 
 ## License
